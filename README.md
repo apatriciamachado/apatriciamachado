@@ -7,12 +7,13 @@
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 About Me
 
-I'm a Software Engineering student passionate about technology,
-problem solving and building useful things.
+I'm a 3rd-year Computer Engineering student passionate about technology,
+software development and creative problem solving.
 
-Currently learning and working with modern web technologies.
+I enjoy learning new technologies, building projects and turning ideas
+into practical solutions.
 
 ---
 
@@ -39,6 +40,14 @@ Currently learning and working with modern web technologies.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+---
+
+## 🌱 Beyond Coding
+
+💃 Dance has been part of my life since I was 3 years old.  
+✈️ I love travelling and discovering new places and cultures.  
+🎨 I enjoy expressing my creativity through design and technology.
 
 ---
 
